@@ -70,3 +70,10 @@ gem 'font-awesome-sass', '~> 5.13'
 
 gem 'bootstrap', '~> 4.5'
 gem 'jquery-rails'
+
+gem 'pry-byebug'
+
+gem 'capybara', '>= 2.15'
+gem 'rspec-rails'
+gem "factory_bot_rails"
+gem 'faker'
